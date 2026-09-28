@@ -1,0 +1,1 @@
+File statis seperti gambar, ikon, font, dan ilustrasi

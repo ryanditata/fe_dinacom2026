@@ -1,0 +1,1 @@
+Untuk global state (misal auth, theme, language, dsb).

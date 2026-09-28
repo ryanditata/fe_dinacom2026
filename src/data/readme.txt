@@ -1,0 +1,1 @@
+Simpan data statis seperti daftar opsi dropdown, enum, atau data dummy untuk testing.

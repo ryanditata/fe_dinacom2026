@@ -1,0 +1,1 @@
+Menyimpan definisi tipe global agar autocomplete TypeScript rapi.

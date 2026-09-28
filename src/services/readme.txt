@@ -1,0 +1,1 @@
+Layer data dan logic aplikasi. Menangani komunikasi API (Axios)
